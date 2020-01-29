@@ -14,9 +14,29 @@ margin: 0 auto;
 
 
 }
+#cabecera{
+    background: darkblue;
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.7);
+
+
+}
+.spam{
+    font-size: 20px;
+    text-align: center;
+
+}
 .container h1 {
     font-size: 20px;
 }
 /* .post{
 
 } */
+
+.post{
+
+}
