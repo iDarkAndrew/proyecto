@@ -41,9 +41,10 @@ margin: 0 auto;
 .post{
 
 }
+
 #footer {
 text-align: center;
- background:gray; 
+ background: darkblue; 
  padding: 0.5em;
  color:white;
  /* margin: 0; */
