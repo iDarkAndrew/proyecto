@@ -49,6 +49,11 @@ vertical-align: middle;
 .post{
 background: white;
 }
-h1 {
-    margin: auto;
+
+#footer {
+text-align: center;
+ background: darkblue; 
+ padding: 0.5em;
+ color:white;
+ /* margin: 0; */
 }
