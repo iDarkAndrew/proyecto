@@ -51,6 +51,8 @@ background: white;
 }
 h1 {
     margin: auto;
+    text-align: center;
+    padding: 5px ;
 }
 #footer {
 text-align: center;
