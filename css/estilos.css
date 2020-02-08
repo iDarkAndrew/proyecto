@@ -1,5 +1,6 @@
 body
 {
+    background: black;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding: 0;
@@ -12,19 +13,26 @@ text-align:left;
 padding: 1em;
 border: 1px solid black;
 margin: 0 auto;
-
+/* background: white; */
 
 }
 #cabecera{
-    background: darkblue;
+    background: url("../imagenes/dragon.png") no-repeat center center;
     text-align: center;
     color: white;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 2em;
     font-weight: bold;
     box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.7);
+background-color: blue;
 
 
+
+}
+#cabecera #logo
+{
+width: 20px;
+vertical-align: middle;
 }
 .spam{
     font-size: 20px;
@@ -39,5 +47,8 @@ margin: 0 auto;
 } */
 
 .post{
-
+background: white;
+}
+h1 {
+    margin: auto;
 }
