@@ -41,3 +41,12 @@ margin: 0 auto;
 .post{
 
 }
+#footer {
+text-align: center;
+ background:gray; 
+ padding: 0;
+ margin: 0;
+}
+/* #container-footer{
+    background: gray;
+} */
